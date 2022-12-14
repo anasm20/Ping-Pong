@@ -20,6 +20,8 @@ ball.penup()  # stop drawing lines when moving
 ball_dx, ball_dy = 1, 1
 ball_speed = .5
 
+#https://github.com/anasm20
+
 # center line
 center_line = turtle.Turtle()
 center_line.speed(0)
